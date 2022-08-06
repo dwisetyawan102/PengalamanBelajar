@@ -12,3 +12,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (progress 100%)
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (peogress 45%)
  * Memahami Kebutuhan Aplikasi
  * Perencanaan Modifikasi Aplikasi
+
+**3 Agustus 2022**  
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (peogress 72%)
+ * Mengerti Konsep Dasar Pemrograman
