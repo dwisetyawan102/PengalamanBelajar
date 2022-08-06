@@ -16,3 +16,8 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (peogress 45%)
 **3 Agustus 2022**  
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (peogress 72%)
  * Mengerti Konsep Dasar Pemrograman
+
+**4 Agustus 2022**  
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (peogress 100%)
+ * Memodifikasi Aplikasi Perangkat Lunak
+ * Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
